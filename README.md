@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Kith15
 - 👀 I’m interested in ...Programming in Java
 - 🌱 I’m currently learning ...Java Programming Language
-- 💞️ I’m looking to collaborate on ...anything that has to do with Java.
+- 💞️ I’m looking to collaborate on ...anything that has to do with Java or any other programming language.
 - 📫 How to reach me ...You can send an email at panashegazera@gmail.com
 
 <!---
