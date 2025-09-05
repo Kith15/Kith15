@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Kith15
-- 👀 I’m interested in ...Programming in Java
-- 🌱 I’m currently learning ...react native
-- 💞️ I’m looking to collaborate on ...anything that has to do with Java or any other programming language.
+- 👀 I’m interested in ...Programming in Python
+- 🌱 I’m currently learning ...Machine learning
+- 💞️ I’m looking to collaborate on ...anything that has to do with Python or any other programming language.
 - 📫 How to reach me ...You can send an email at gazerapanashe@gmail.com
 
 <!---
